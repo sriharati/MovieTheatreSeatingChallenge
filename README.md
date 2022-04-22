@@ -49,7 +49,8 @@ Since customers are reserving seats for groups, they would prefer sitting next t
   <li>Output for one of my Test Case:
     <p>R001 J1,J2</p>
     <p>R002 J6,J7,J8,J9</p>
-    <p>R003 J13,J14,J15,J16, J17</p>
+    <p>R003 J13,J14,J15,J16</p>
+    <p>R004 H1, H2, H3</p>
     <p>Output file (path): /Users/sriharati/eclipse-workspace/Movie/output.txt</p>
 
 </ul>
