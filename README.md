@@ -7,6 +7,7 @@
   <b>Input:</b> 
   <li>Each line in the file comprises of a reservation ID, followed by a space, and then the number of seats requested.  "R001 2"</li>
 
+  
   <b>Output:</b>
   <li>Each row in the file should include the reservation number followed by a space, and then a comma-delimited list of the assigned seats. "R001 I1,I2"</li>
   </ul>
